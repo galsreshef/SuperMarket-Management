@@ -1,7 +1,5 @@
 # SuperMarket Management app
 
-![Main Screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/main%20screen.png)
-
 ## About the project:
 #### This app was made in JAVA.
 The system includes a point of sale system also it manages employees, customer and store inventory management.
@@ -12,8 +10,10 @@ The system includes a point of sale system also it manages employees, customer a
 You can change the logic of the code without changing anything in the view. (like using an API) 
 - There are also Junit test files for testsing invalid input in the system.
 
+### Main Menu screen
+![Main Screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/main%20screen.png)
 
-### Log in screen
+### Login screen
 ![Log in screen](https://github.com/galsreshef/SuperMarket-Management/blob/master/SuperMarket-Management/Screenshots/Log%20in%20screen.png)
 
 ### Managment screen
