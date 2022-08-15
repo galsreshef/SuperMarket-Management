@@ -1,7 +1,7 @@
 # SuperMarket Management app
 
 ## About the project:
-#### This app was made in JAVA.
+#### This application was written in Java.
 The system includes a point of sale system also it manages employees, customer and store inventory management.
 
 - Stock inventory is updating as items being added to receipt.
